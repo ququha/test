@@ -22,5 +22,8 @@ int aa=a*a, bb=b*b;
 float q=sqrt(aa+bb);
 cout << "d = " << q << endl;
 }
+int w=1010101001;
+cout << w;
+int e, t, s;
 return 0;
 }
